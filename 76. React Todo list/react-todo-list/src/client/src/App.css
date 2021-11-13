@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+body { 
+  background-color: #282c34;
+  color: #f1e4b4;
+}
+
+h1 {
+ font-size: 3em; 
+}
+
+h1, h2, h3 {
+  color: #ffd94a;
+}
+
+ul, li {
+  list-style-type: none; 
+  padding: 0px;
+}
+
+.todo-item {
+  border:none;
+  background-color: #282c34;
+  color: #f1e4b4;
+  font-weight: 600;
+  font-size: 2em;
+}
